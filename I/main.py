@@ -1,5 +1,6 @@
 from I.classes.employee import *
 
+# I for Interface Segregation Principle.
 
 if __name__ == '__main__':
     e1 = Employee('Maria', '1234/56', 'sales', 'secretary', 3000)

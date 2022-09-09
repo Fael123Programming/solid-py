@@ -1,6 +1,6 @@
 from I.classes.database import Database
 
-# Everything coupled in a very same interface... totally wrong!
+# Everything's coupled in a very same interface... totally wrong!
 
 
 class Employee:

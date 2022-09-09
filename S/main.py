@@ -1,4 +1,5 @@
 from S.classes.report_creator import ReportCreator
+
 # S for Single Responsibility Principle.
 
 # ReportCompile is liable for fetching and processing the data.
