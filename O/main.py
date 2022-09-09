@@ -1,5 +1,5 @@
-from o.classes.calculator import Calculator
-from o.classes.operation import Sum, Subtraction
+from O.classes.calculator import Calculator
+from O.classes.operation import Sum, Subtraction
 
 # O for Open-Closed Principle
 

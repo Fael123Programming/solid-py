@@ -1,4 +1,4 @@
-from o.classes.operation import Operation
+from O.classes.operation import Operation
 
 
 class Calculator:

@@ -1,6 +1,6 @@
-from s.classes.print_mode import PrintMode
-from s.classes.report_compiler import ReportCompiler
-from s.classes.report_printer import ReportPrinter
+from S.classes.print_mode import PrintMode
+from S.classes.report_compiler import ReportCompiler
+from S.classes.report_printer import ReportPrinter
 
 
 class ReportCreator:

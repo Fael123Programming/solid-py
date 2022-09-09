@@ -33,7 +33,7 @@ class CurrentAccount(Account):
 
     def withdraw(self, amount: float) -> bool:
         if super().withdraw(amount):
-            # Pay the withdrawal fee if there's enough money.
+            # Pay the withdrawal fee if there'S enough money.
             fee = amount * self._withdrawal_fee
             if fee <= self.balance:
                 self._balance -= fee

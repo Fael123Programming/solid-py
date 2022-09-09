@@ -1,4 +1,4 @@
-from s.classes.print_mode import PrintMode
+from S.classes.print_mode import PrintMode
 
 
 class ReportPrinter:

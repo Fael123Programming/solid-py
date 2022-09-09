@@ -1,4 +1,4 @@
-from l.classes.account import *
+from L.classes.account import *
 
 
 # L for Liskov Substitution Principle.
